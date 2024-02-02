@@ -5,6 +5,6 @@ public class pt3_git_hub {
 		System.out.println("la modificacio Git");
 		System.out.println("2a modificacio Git");
 		System.out.println("3a modificacio Git");
-		System.out.println("a4 modificacio Git");
+		System.out.println("4a modificacio Git");
 	}	
 }
